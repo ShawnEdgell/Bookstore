@@ -1,4 +1,4 @@
-# bun-test
+# Bun + Elysia.js CRUD app
 
 To install dependencies:
 
